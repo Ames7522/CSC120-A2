@@ -3,7 +3,7 @@ class Computer:
     # What attributes will it need?
     """
     storing information about a specific computer
-    updating a computer's OS
+    initial opperating system to allow updating a computer's OS
     """
     # How will you set up your constructor?
     # Remember: in python, all constructors have the same name (__init__)
